@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EnvioRapido.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0bf85090e3ad446b87433a9acc52929f288c6ec")]
 [assembly: System.Reflection.AssemblyProductAttribute("EnvioRapido.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EnvioRapido.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
